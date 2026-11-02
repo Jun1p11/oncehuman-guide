@@ -56,6 +56,10 @@ markdown_extensions:
         kwds:
           case: lower
 
+not_in_nav: |  # 추후 작성 페이지 (메뉴에서 숨김)
+  /scenario/touch-of-sky.md
+  /scenario/archipelago.md
+
 validation:
   anchors: warn  # 없는 #앵커 링크도 빌드 때 잡기
 
@@ -64,7 +68,6 @@ nav:
   - 홈: index.md
   - 시나리오:
       - scenario/index.md
-      - 터치 오브 스카이: scenario/touch-of-sky.md
       - 무한한 꿈:
           - scenario/endless-dream/index.md
           - 얕은 잠: scenario/endless-dream/shallow-sleep.md
@@ -74,7 +77,6 @@ nav:
           - 무꿈 영역 현상: scenario/endless-dream/nightmare-laws.md
           - 회상 양 상점: scenario/endless-dream/sheep-shop.md
           - 클리어 보상 표: scenario/endless-dream/rewards.md
-      - 군도: scenario/archipelago.md
   - 트랜스:
       - trans/index.md
       - 역행하는 별:

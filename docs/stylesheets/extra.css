@@ -176,3 +176,16 @@
   font-size: 0.7rem;
   color: var(--md-default-fg-color--lighter);
 }
+
+/* ---------- 추후 작성 카드 ---------- */
+.oh-badge--soon { color: #9aa3b5; background: rgba(154, 163, 181, 0.15); }
+.oh-soon-text { font-size: 0.75rem; color: var(--md-default-fg-color--light); }
+.md-typeset .grid.cards > ul > li:has(.oh-badge--soon) {
+  opacity: 0.55;
+  cursor: default;
+}
+.md-typeset .grid.cards > ul > li:has(.oh-badge--soon):hover {
+  transform: none;
+  border-color: var(--oh-card-border);
+  box-shadow: none;
+}
