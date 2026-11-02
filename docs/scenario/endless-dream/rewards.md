@@ -17,6 +17,16 @@
 !!! tip "정리하면"
     [얕은 잠](shallow-sleep.md) · [깊은 잠](deep-sleep.md)에서 현실 조각을 **모으고**, [영면자](kin.md)에서 현실 조각을 **써서** 키워드 모듈 상자를 받습니다.
 
+## 망각 추천 총기
+
+| 무기 | 종류 | 빌드 시트 |
+|------|------|-----------|
+| **P90 - 홀로그램 공명** | 기관단총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1502839175#gid=1502839175){ target="_blank" } |
+| **SKS - 탐색자** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=739631146#gid=739631146){ target="_blank" } |
+| **택구 - 추가규칙** | 기관단총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2032770786#gid=2032770786){ target="_blank" } |
+
+<small>빌드 출처: [원스휴먼 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509)</small>
+
 ---
 
 [:octicons-arrow-left-24: 무한한 꿈으로 돌아가기](index.md)

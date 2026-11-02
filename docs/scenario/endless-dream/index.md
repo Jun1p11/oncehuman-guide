@@ -90,11 +90,23 @@
 
 <div class="oh-img-placeholder">이미지 준비 중 · images/endless-dream/awareness-clock.png (자각의 시계)</div>
 
+[:material-pickaxe: 채광세팅 시트 열기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1127561707#gid=1127561707){ .md-button .md-button--primary target="_blank" }
+
 !!! tip "자각의 시계 팁"
     - 채굴 판정이 시계 **가운데**에 있습니다. 높은 시계는 ++b++ 키로 지반을 깔고 올라가서 캡니다. 바이크로 점프해서 올라가도 됩니다.
     - [악몽 법칙](nightmare-laws.md)의 **벼락이나 폭탄**이 시계를 맞히게 유도하면 시계가 부서집니다.
     - **물고기 통조림**을 먹고 캐면 더 많이 나옵니다.
     - 워프 타워 근처 시계는 세계를 바꿔 가며 캐면 효율이 좋습니다.
+
+#### 주요 파밍 지역
+
+| 지역 | 내용 |
+|------|------|
+| :material-snowflake: **설산** | 모래(자각의 시계)가 많다는 후기가 있습니다. 사람이 잘 안 다니는 곳에 시계가 많이 보인다고 합니다. 경사가 심하니 저중력 시간대를 노리세요. |
+| :material-transit-connection-variant: **워프 타워 근처** | 이동이 빨라서 세계를 바꿔 가며 캐기 좋습니다. 단, 근처에 영지가 있으면 꿈의 영역이 생기지 않습니다. |
+
+!!! note "좌표는 따로 없음"
+    시계 위치가 정리된 좌표 자료는 찾지 못했습니다. 스폰 위치가 대략 2주마다 바뀐다는 후기도 있어서, 맵의 **악몽 지역**을 하나씩 돌며 시계를 찾는 방식이 기본입니다.
 
 !!! danger "주의"
     - 꿈의 영역 안에 **15분** 넘게 있으면 부활 기회 없이 밖으로 쫓겨납니다.
@@ -155,8 +167,9 @@
 ## 추천 총기 빌드
 
 [:material-google-spreadsheet: 추천 총기 빌드 시트 열기][sheet]{ .md-button .md-button--primary target="_blank" }
+[:material-pistol: 총기별 추천 콘텐츠](../../builds/index.md){ .md-button }
 
-<small>시트 작성: (작성자)</small>
+<small>원본 시트: <https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509></small>
 
 ## 같이 보기
 
@@ -168,7 +181,7 @@
 - [주관적인 무한한 꿈 공략 : 기타 팁, 육성 루트, 중요 자원](https://m.dcinside.com/board/oncehumankor/188556)
 - [무한의 꿈 자각의 시계](https://m.dcinside.com/board/oncehumankor/174563)
 - [다시 쓰는 무한한 꿈 기초 가이드(수정)](https://m.dcinside.com/board/oncehumankor/182205)
+- [무꿈 자각의 모래 파밍방법은 없어?? - 원스휴먼 채널](https://arca.live/b/oncehuman/142962201)
 - [무한한 꿈 대충 정리해옴](https://gall.dcinside.com/mgallery/board/view/?id=oncehumankor&no=173569)
 
-<!-- 아래 # 자리에 구글 시트 주소 붙여넣기 -->
-[sheet]: #
+[sheet]: https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509

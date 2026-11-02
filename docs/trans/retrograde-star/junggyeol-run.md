@@ -31,6 +31,8 @@
 
 ## 추천 세팅
 
+[:material-google-spreadsheet: 중력런 세팅 시트 열기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=802382803#gid=802382803){ .md-button .md-button--primary target="_blank" }
+
 | 부위 | 추천 | 이유 |
 |------|------|------|
 | 방어구 세트 | 그래비티 타이드 | 점프 높이 증가, 공중 피해 20% 감소 |

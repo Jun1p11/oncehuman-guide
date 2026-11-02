@@ -6,7 +6,6 @@
 
 [:material-google-spreadsheet: 추천 총기 빌드 시트 열기][sheet]{ .md-button .md-button--primary target="_blank" }
 
-<small>시트 작성: (작성자)</small>
+<small>원본 시트: <https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509></small>
 
-<!-- 아래 # 자리에 구글 시트 주소 붙여넣기 -->
-[sheet]: #
+[sheet]: https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509

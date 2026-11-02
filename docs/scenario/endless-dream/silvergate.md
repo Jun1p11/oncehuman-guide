@@ -27,6 +27,15 @@
 !!! info "다른 콘텐츠와 헷갈리지 않기"
     오픈월드 이벤트 **다키니의 습격**은 실버게이트 보스와 다른 콘텐츠입니다.
 
+## 추천 총기
+
+| 무기 | 종류 | 빌드 시트 |
+|------|------|-----------|
+| **SN700 - 절향** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1104134783#gid=1104134783){ target="_blank" } |
+| **SKS - 탐색자** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=739631146#gid=739631146){ target="_blank" } |
+
+<small>빌드 출처: [원스휴먼 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509)</small>
+
 ## 참고 영상
 
 - [[원스휴먼] 무한한 꿈 다키니런(실버게이트) 유산스카 빌드 - YouTube](https://www.youtube.com/watch?v=_f0qAcQwyMM)

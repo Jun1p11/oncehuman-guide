@@ -12,6 +12,14 @@
 - 세계 곳곳을 날아다니며 **오염된 여행 가방**을 지상에 떨어뜨립니다. 공중에서 처리하면 전리품을 얻습니다.
 - 새 전리품 **심연의 핵**은 중력 결정으로 바로 열어서 돈을 얻거나 다른 플레이어와 거래할 수 있습니다.
 
+## 추천 총기
+
+| 무기 | 종류 | 빌드 시트 |
+|------|------|-----------|
+| **SN700 - 절향** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1104134783#gid=1104134783){ target="_blank" } |
+
+<small>빌드 출처: [원스휴먼 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509)</small>
+
 ## 파티 역할
 
 | 역할 | 맡는 일 | 추천 세팅 |

@@ -68,6 +68,14 @@
 - 깊은 잠 영역의 변이체를 끌고 오면 어그로가 풀리지 않고 계속 따라옵니다.
 - 무얕은 **현실 조각**을 모으기 좋은 방법이라, 킨과 실버게이트 보상을 받기 전에 미리 돌아두라는 조언이 많습니다.
 
+## 추천 총기
+
+| 무기 | 종류 | 빌드 시트 |
+|------|------|-----------|
+| **SN700 - 절향** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1104134783#gid=1104134783){ target="_blank" } |
+
+<small>빌드 출처: [원스휴먼 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509)</small>
+
 ## 출처
 
 - [무한 얕잠 공략 - 원스휴먼 마이너 갤러리](https://gall.dcinside.com/mgallery/board/view/?id=oncehumankor&no=195364)

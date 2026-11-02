@@ -52,6 +52,17 @@
 | (블랙홀 패턴 킨) | 블랙홀 생성 후 벽 생성 | 블랙홀이 보이자마자 거친 물결로 빠져나옴 |
 | 세이렌 | 머리 위 번개 | 꿈의 영역 안에 **피뢰침**을 지어 대응 |
 
+## 추천 총기
+
+| 무기 | 종류 | 빌드 시트 |
+|------|------|-----------|
+| **SN700 - 절향** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1104134783#gid=1104134783){ target="_blank" } |
+| **SKS - 탐색자** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=739631146#gid=739631146){ target="_blank" } |
+| **MK - 문어! 구이 링!** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1183237888#gid=1183237888){ target="_blank" } |
+| **택구 - 추가규칙** | 기관단총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2032770786#gid=2032770786){ target="_blank" } |
+
+<small>빌드 출처: [원스휴먼 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509)</small>
+
 ## 무킨
 
 (작성 필요: 무킨 방식은 커뮤니티 글에서 확인하지 못했습니다. 내용을 알려주시면 채워 넣겠습니다.)

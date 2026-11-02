@@ -12,6 +12,11 @@ hide:
 시나리오 · 트랜스 · 모듈 공략과 추천 총기 빌드 모음
 </div>
 
+<div style="text-align:center" markdown>
+[:material-google-spreadsheet: 전체 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509){ .md-button .md-button--primary target="_blank" }
+[:material-pistol: 총기별 추천 콘텐츠](builds/index.md){ .md-button }
+</div>
+
 ## 시나리오
 
 <div class="grid cards" markdown>
@@ -61,5 +66,27 @@ hide:
     모듈 정리
 
     [:octicons-arrow-right-24: 바로가기](module/index.md)
+
+</div>
+
+## 파밍 루트
+
+<div class="grid cards" markdown>
+
+-   :material-cog-transfer-outline:{ .lg .middle } **테크런**
+
+    ---
+
+    테크 시설 회수 위치
+
+    [:octicons-arrow-right-24: 바로가기](farming/tech-run.md)
+
+-   :material-sofa-outline:{ .lg .middle } **가구런**
+
+    ---
+
+    지역별 가구 파밍 루트
+
+    [:octicons-arrow-right-24: 바로가기](farming/furniture-run.md)
 
 </div>

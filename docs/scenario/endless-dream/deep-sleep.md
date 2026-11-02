@@ -60,6 +60,18 @@
 - 다른 플레이어가 없앨 수 없습니다.
 - 같은 자리에서 무얕과 함께 돌릴 수 있습니다.
 
+## 추천 총기
+
+| 무기 | 종류 | 빌드 시트 |
+|------|------|-----------|
+| **G17 - 위험물 (폭글록)** | 권총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1177753503#gid=1177753503){ target="_blank" } |
+| **서리 스카 - 우주 방문객** | 소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1798601486#gid=1798601486){ target="_blank" } |
+| **SN700 - 절향**<br><small>보조 무기: 탈출 불가</small> | 저격소총<br><small>컴파운드 보우</small> | [:material-google-spreadsheet: 절향](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1104134783#gid=1104134783){ target="_blank" }<br>[:material-google-spreadsheet: 탈출 불가](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1275908954#gid=1275908954){ target="_blank" } |
+| **AK - 심연의 응시** | 소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=234116370#gid=234116370){ target="_blank" } |
+| **MK - 문어! 구이 링!** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1183237888#gid=1183237888){ target="_blank" } |
+
+<small>빌드 출처: [원스휴먼 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509)</small>
+
 ## 출처
 
 - [무한 깊잠 - 원스휴먼 마이너 갤러리](https://m.dcinside.com/board/oncehumankor/213969)

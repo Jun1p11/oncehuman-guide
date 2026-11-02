@@ -84,3 +84,9 @@ nav:
           - 균열자: trans/retrograde-star/rift.md
   - 모듈:
       - module/index.md
+  - 추천 총기:
+      - builds/index.md
+  - 파밍 루트:
+      - farming/index.md
+      - 테크런: farming/tech-run.md
+      - 가구런: farming/furniture-run.md

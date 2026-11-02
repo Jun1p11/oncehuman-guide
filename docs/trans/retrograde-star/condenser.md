@@ -7,6 +7,8 @@
 !!! warning "작성 기준"
     S4 **중력의 심연** 시즌 커뮤니티 글을 바탕으로 정리했습니다. 패치로 수치나 동작이 달라졌을 수 있습니다.
 
+[:material-google-spreadsheet: 응축기 세팅 시트 열기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=802382803#gid=802382803){ .md-button .md-button--primary target="_blank" }
+
 ## 기본 정보
 
 | 항목 | 내용 |
@@ -35,6 +37,18 @@
 | G17 - 위험물 | 균열자·응축기 솔플 클립 글 (약 4분 클리어) |
 | SN700 - 절향 | 중력 응축기 SN700-절향 가이드 |
 | AK + 저주인형 → 마지막 보스만 절향 | 질문 글 (탄 소모가 크고 나비 쿨이 답답하다는 후기) |
+
+## 추천 총기
+
+| 무기 | 종류 | 빌드 시트 |
+|------|------|-----------|
+| **SN700 - 절향** | 저격소총 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=1104134783#gid=1104134783){ target="_blank" } |
+| **S4 중력런 및 응축기 세팅** | 세팅 모음 | [:material-google-spreadsheet: 빌드 보기](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=802382803#gid=802382803){ target="_blank" } |
+
+!!! tip "보조 무기"
+    보조 무기로 **추분**을 들면 응축기를 회복시킬 수 있습니다.
+
+<small>빌드 출처: [원스휴먼 총기 빌드 시트](https://docs.google.com/spreadsheets/d/1UEGz2lsRZplKnUekpb7x1KbgcoPnfPaIQxWSmx4_WMc/edit?gid=2128228509#gid=2128228509)</small>
 
 ## 공략
 
