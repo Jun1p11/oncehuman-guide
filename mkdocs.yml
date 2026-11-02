@@ -1,48 +1,86 @@
 site_name: 원스휴먼 공략
+site_description: 원스휴먼 시나리오 · 트랜스 · 모듈 공략
 site_url: https://jun1p11.github.io/oncehuman-guide/
 repo_url: https://github.com/Jun1p11/oncehuman-guide
 
 theme:
   name: material
   language: ko
+  font: false  # Pretendard는 extra.css에서 로드
+  icon:
+    logo: material/star-four-points
   palette:
     - scheme: slate
-      primary: deep orange
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: 라이트 모드
     - scheme: default
-      primary: deep orange
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: 다크 모드
   features:
     - navigation.tabs
-    - navigation.sections
+    - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
     - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search:
       lang: ja  # 한글 검색 분리용 (ko 미지원)
 
 markdown_extensions:
-  - attr_list      # 이미지 크기 지정 { width="300" }
-  - md_in_html
+  - attr_list      # 이미지 크기 { width="300" }, 버튼 { .md-button }
+  - md_in_html     # 카드 그리드
   - admonition     # !!! tip 박스
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - tables
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify  # 한글 앵커 유지
+        kwds:
+          case: lower
 
-# 왼쪽/상단 메뉴. 페이지 추가하면 여기에도 한 줄 추가
+validation:
+  anchors: warn  # 없는 #앵커 링크도 빌드 때 잡기
+
+# 메뉴. 페이지 추가하면 여기에도 한 줄 추가
 nav:
   - 홈: index.md
-  - 초보 가이드:
-      - beginner/index.md
-  - 이형체:
-      - deviants/index.md
-      - 다키니: deviants/dakini.md
-  - 무기·빌드:
-      - builds/index.md
+  - 시나리오:
+      - scenario/index.md
+      - 터치 오브 스카이: scenario/touch-of-sky.md
+      - 무한한 꿈:
+          - scenario/endless-dream/index.md
+          - 얕은 잠: scenario/endless-dream/shallow-sleep.md
+          - 깊은 잠: scenario/endless-dream/deep-sleep.md
+          - 영면자 (킨): scenario/endless-dream/kin.md
+          - 실버게이트: scenario/endless-dream/silvergate.md
+          - 무꿈 영역 현상: scenario/endless-dream/nightmare-laws.md
+          - 회상 양 상점: scenario/endless-dream/sheep-shop.md
+          - 클리어 보상 표: scenario/endless-dream/rewards.md
+      - 군도: scenario/archipelago.md
+  - 트랜스:
+      - trans/index.md
+      - 역행하는 별:
+          - trans/retrograde-star/index.md
+          - 응축기: trans/retrograde-star/condenser.md
+          - 중결런: trans/retrograde-star/junggyeol-run.md
+          - 균열자: trans/retrograde-star/rift.md
+  - 모듈:
+      - module/index.md

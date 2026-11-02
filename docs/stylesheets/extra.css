@@ -1,0 +1,170 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
+
+/* ---------- 색상 ---------- */
+:root {
+  --md-text-font: "Pretendard Variable", Pretendard, -apple-system, sans-serif;
+  --oh-accent: #ff8a3d;       /* 주황 */
+  --oh-accent-2: #5ee6d0;     /* 청록 */
+  --oh-glow: rgba(255, 138, 61, 0.35);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 225;
+  --md-default-bg-color: #0e1118;
+  --md-primary-fg-color: #141924;
+  --md-primary-bg-color: #e8ecf4;
+  --md-accent-fg-color: var(--oh-accent);
+  --md-typeset-a-color: var(--oh-accent);
+  --oh-card-bg: #161c28;
+  --oh-card-border: #252e40;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1d2433;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #e0661c;
+  --md-typeset-a-color: #d35a12;
+  --oh-card-bg: #ffffff;
+  --oh-card-border: #e3e7ef;
+}
+
+.md-header, .md-tabs {
+  background: var(--md-primary-fg-color);
+}
+.md-tabs__link--active, .md-tabs__link:hover {
+  color: var(--oh-accent);
+}
+
+/* ---------- 제목 ---------- */
+.md-typeset h1 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--md-default-fg-color);
+}
+.md-typeset h2 {
+  font-weight: 700;
+  padding-left: 0.6rem;
+  border-left: 4px solid var(--oh-accent);
+}
+
+/* ---------- 홈 히어로 ---------- */
+.oh-hero {
+  position: relative;
+  margin: 0 0 2.5rem;
+  padding: 4rem 2rem 3.5rem;
+  border-radius: 1rem;
+  text-align: center;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse at 20% 0%, rgba(94, 230, 208, 0.18), transparent 55%),
+    radial-gradient(ellipse at 85% 100%, rgba(255, 138, 61, 0.25), transparent 55%),
+    linear-gradient(160deg, #121826 0%, #0b0e15 100%);
+  border: 1px solid #252e40;
+  color: #e8ecf4;
+}
+.oh-hero::after {   /* 별 가루 */
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(1px 1px at 12% 30%, #fff8, transparent),
+    radial-gradient(1px 1px at 68% 18%, #fff6, transparent),
+    radial-gradient(1.5px 1.5px at 40% 70%, #fff7, transparent),
+    radial-gradient(1px 1px at 88% 55%, #fff5, transparent),
+    radial-gradient(1px 1px at 25% 85%, #fff6, transparent);
+  pointer-events: none;
+}
+.md-typeset .oh-hero h1 {
+  margin: 0 0 0.6rem;
+  font-size: 2.6rem;
+  color: #fff;
+  text-shadow: 0 0 24px var(--oh-glow);
+}
+.oh-hero p {
+  margin: 0;
+  font-size: 1rem;
+  color: #aab4c8;
+}
+.oh-hero .oh-tag {
+  display: inline-block;
+  margin-bottom: 1rem;
+  padding: 0.2rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  color: var(--oh-accent-2);
+  border: 1px solid rgba(94, 230, 208, 0.4);
+}
+
+/* ---------- 카드 ---------- */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  background: var(--oh-card-bg);
+  border: 1px solid var(--oh-card-border);
+  border-radius: 0.8rem;
+  transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+}
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid > .card:hover {
+  transform: translateY(-3px);
+  border-color: var(--oh-accent);
+  box-shadow: 0 8px 28px -10px var(--oh-glow);
+}
+.md-typeset .grid.cards .lg {
+  color: var(--oh-accent);
+}
+
+/* ---------- 상태 뱃지 ---------- */
+.oh-badge {
+  display: inline-block;
+  margin-left: 0.3rem;
+  padding: 0.05rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.65rem;
+  font-weight: 600;
+  vertical-align: middle;
+}
+.oh-badge--guide { color: #5ee6d0; background: rgba(94, 230, 208, 0.12); }
+.oh-badge--sheet { color: #ffb37a; background: rgba(255, 138, 61, 0.12); }
+
+/* ---------- 버튼 ---------- */
+.md-typeset .md-button {
+  border-radius: 0.6rem;
+  font-weight: 600;
+}
+.md-typeset .md-button--primary {
+  background: var(--oh-accent);
+  border-color: var(--oh-accent);
+  color: #1a0d03;
+}
+.md-typeset .md-button--primary:hover {
+  box-shadow: 0 0 18px var(--oh-glow);
+}
+
+/* ---------- 이미지 ---------- */
+.md-typeset img {
+  border-radius: 0.6rem;
+}
+
+/* ---------- 이미지 자리표시 (이미지 넣으면 지우기) ---------- */
+.oh-img-placeholder {
+  margin: 1rem 0;
+  padding: 2.2rem 1rem;
+  border: 2px dashed var(--oh-card-border);
+  border-radius: 0.6rem;
+  text-align: center;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+}
+.oh-icon-placeholder {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: 1px dashed var(--oh-card-border);
+  border-radius: 6px;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--lighter);
+}
