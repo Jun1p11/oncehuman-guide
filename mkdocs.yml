@@ -1,0 +1,48 @@
+site_name: 원스휴먼 공략
+site_url: https://jun1p11.github.io/oncehuman-guide/
+repo_url: https://github.com/Jun1p11/oncehuman-guide
+
+theme:
+  name: material
+  language: ko
+  palette:
+    - scheme: slate
+      primary: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: 라이트 모드
+    - scheme: default
+      primary: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: 다크 모드
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search:
+      lang: ja  # 한글 검색 분리용 (ko 미지원)
+
+markdown_extensions:
+  - attr_list      # 이미지 크기 지정 { width="300" }
+  - md_in_html
+  - admonition     # !!! tip 박스
+  - tables
+  - toc:
+      permalink: true
+
+# 왼쪽/상단 메뉴. 페이지 추가하면 여기에도 한 줄 추가
+nav:
+  - 홈: index.md
+  - 초보 가이드:
+      - beginner/index.md
+  - 이형체:
+      - deviants/index.md
+      - 다키니: deviants/dakini.md
+  - 무기·빌드:
+      - builds/index.md
